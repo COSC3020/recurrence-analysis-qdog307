@@ -29,4 +29,9 @@ function mystery(n) {
 
 Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
-might help with the notation for mathematical expressions.
+might help with the notation for mathematical expressions. 
+
+The solution is 3t(n/3)+O(n^5), I solved this by first looking at the recurive calls that are made which is three. Then looking at the nested loop
+it is n^2*n*n^2 which equals n^5.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
